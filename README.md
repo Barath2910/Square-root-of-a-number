@@ -32,7 +32,7 @@ sq(x)
 ```
 
 ## Output:
-![gcd of two number](1.png)
+![gcd of two number](1.jpg)
 
 
 ## Result:
